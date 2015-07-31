@@ -478,6 +478,10 @@ ul.nostyle i {
   padding: 110px 0;
   background-color: #eeeeee;
 }
+#common {
+  padding: 110px 0;
+  background-color: #eeeeee;
+}
 .divider {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -611,6 +615,9 @@ ul.nostyle i {
 	width: 20px;
 	border-radius: 100px;
 }
-.textRight {
-	text-align: right;
+.backToTop {
+	float: right;
+}
+.showTable {
+	float: right;
 }
